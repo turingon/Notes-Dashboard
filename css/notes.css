@@ -38,7 +38,7 @@ body {
   flex-wrap: wrap;
 }
 
-.note:first-child{
+.note:first-child {
   margin-left: 10px;
 }
 
@@ -53,10 +53,9 @@ body {
   height: 240px;
   background-color: var(--secondary);
 
-
   background: linear-gradient(to left, var(--secondary) 50%, var(--accent) 50%) right;
-    background-size: 200%;
-    transition: .7s ease-out;
+  background-size: 200%;
+  transition: .7s ease-out;
 }
 
 .details {
@@ -72,5 +71,5 @@ body {
 }
 
 .note:hover {
- background-position: left;
+  background-position: left;
 }

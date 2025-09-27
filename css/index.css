@@ -52,6 +52,9 @@ body {
   display: flex;
   align-items: center;
   flex-direction: column;
+  border-top-right-radius:20px;
+  border-bottom-right-radius:20px;
+    
 }
 
 .navbar-buttons {
